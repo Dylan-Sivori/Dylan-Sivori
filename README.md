@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **Dylan.Sivori@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1WFJ_VQPiWDFPyRmq4BD05IggPeTRnyif/view?usp=sharing](https://drive.google.com/file/d/1WFJ_VQPiWDFPyRmq4BD05IggPeTRnyif/view?usp=sharing)
-
 - ⚡ Fun fact **I am a tennis player**
 
 <h3 align="left">Connect with me:</h3>

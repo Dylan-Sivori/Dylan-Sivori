@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dylan Sivori</h1>
 <h3 align="center">A passionate Data Scientist from New Jersey</h3>
 
-- 🌱 I’m currently learning **FastAPI and Plotly**
+- 🌱 I’m currently learning **Field Experiments and Causal Inference**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Dylan-Sivori](https://github.com/Dylan-Sivori)
 
